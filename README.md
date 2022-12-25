@@ -25,3 +25,6 @@ Untuk lebih jelasnya, terdapat 5 kriteria utama pada Bookshelf Apps yang harus A
 ### Kriteria 5: Manfaatkan localStorage dalam Menyimpan Data Buku
 - Data buku yang ditampilkan pada rak, baik itu "Belum selesai dibaca" maupun "Selesai dibaca" harus dapat bertahan walaupun halaman web ditutup.
 - Dengan begitu, Anda harus menyimpan data buku pada localStorage.
+
+## Penilaian
+[![modul-2-2.png](https://i.postimg.cc/HLsRTjjf/modul-2-2.png)](https://postimg.cc/5XTn34B3)
